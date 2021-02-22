@@ -1,15 +1,14 @@
 # bhaptics-pubg
 
 ### Dependencies
-opencv-python
+* opencv-python
 
-numpy
+* numpy
 
-pynput
+* pynput
 
-websocket-client
-
-d3dshot
+* websocket-client
+* d3dshot
 
 
 cx_freeze - for build exe
