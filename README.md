@@ -1,5 +1,12 @@
 # bhaptics-pubg
 
+## SUMMARY
+
+bHaptics Tactsuit integration mod for PLAYERUNKNOWN'S BATTLEGROUNDS(PUBG). 
+Many different haptic effects on Vest including feedback from enemy attac, gun damage, player weapon fire, reload,
+item changing, healing, heartbeat and more.
+
+
 ## Requirements
 * opencv-python
 * numpy
@@ -11,7 +18,7 @@
 
 ## Description
 ### When the player is attacked(Reducee HP)
-* Damage which over 15 damage
+* Damage which over 7 damage
 * Bluezone Haptic per 1 damage accumulation
 
 ### When the player fights
@@ -32,7 +39,7 @@ Program can returns each ridings speed value
 * Using heal items and gas
 * Interacting with key F
 * Detecting kill log 
-* Heartbeat effects on the vest when your health is low and very low
+* Heartbeat effects on the vest when your health is low.
 * Detect game states(ingame, practice mode, falling, waiting room)
 
 ### Developmented but not included main
