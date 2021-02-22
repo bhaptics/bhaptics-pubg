@@ -7,8 +7,8 @@ Many different haptic effects on Vest including feedback from enemy attac, gun d
 item changing, healing, heartbeat and more. By screen captureing and key events, program detects these events 
 
 ## Settings
-* BORDERLESS game screen setting.
-* English game language setting
+* **BORDERLESS** game screen setting.
+* **English** game language setting
 
 ## Requirements
 * opencv-python
