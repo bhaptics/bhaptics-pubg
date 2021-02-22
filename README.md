@@ -41,8 +41,8 @@ Program can returns each ridings speed value
 
 ### Special Events
 * Using heal items and gas
-* Interacting with key F
-* Detecting kill log 
+* Interacting with key F like open door and pick helmet.
+* Detecting kill log
 * Heartbeat effects on the vest when your health is low.
 * Detect game states(ingame, practice mode, falling, waiting room)
 
