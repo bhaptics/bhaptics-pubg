@@ -4,8 +4,11 @@
 
 bHaptics Tactsuit integration mod for PLAYERUNKNOWN'S BATTLEGROUNDS(PUBG). 
 Many different haptic effects on Vest including feedback from enemy attac, gun damage, player weapon fire, reload,
-item changing, healing, heartbeat and more.
+item changing, healing, heartbeat and more. By screen captureing and key events, program detects these events 
 
+## Settings
+* BORDERLESS game screen setting.
+* English game language setting
 
 ## Requirements
 * opencv-python
@@ -14,7 +17,6 @@ item changing, healing, heartbeat and more.
 * websocket-client
 * d3dshot
 * cx_freeze 
-
 
 ## Description
 ### When the player is attacked(Reducee HP)
@@ -58,5 +60,11 @@ Player can modify intensity of haptics and test the effects by click the button.
 Modified intensities are applyed when clicked "apply" button
 If the setting window is closed, the program exits
 Player can check which haptic events are playing.
-
+By chaning tacts files on TactFiles folder. Player can change types of haptics
 ![Player GUI](https://user-images.githubusercontent.com/76416010/108648563-ea848280-74fe-11eb-957b-59ccf682415b.png)
+
+
+## Issues
+* As this program mostly depending on screen capturing, the full-screen gameplay is compulsory.
+* d3dshot screen capture module halts when PUBG is executing Full-screen mode.
+* Unstable resolution availability
