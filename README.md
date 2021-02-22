@@ -69,3 +69,4 @@ By chaning tacts files on TactFiles folder. Player can change types of haptics
 * As this program mostly depending on screen capturing, the full-screen gameplay is compulsory.
 * d3dshot screen capture module halts when PUBG is executing Full-screen mode.
 * Unstable resolution availability
+* If the player use mouse wheel for weapon swap, the program will not know which slot of weapon is holding.
