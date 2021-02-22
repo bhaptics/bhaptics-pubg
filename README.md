@@ -2,13 +2,10 @@
 
 ### Dependencies
 * opencv-python
-
 * numpy
-
 * pynput
-
 * websocket-client
 * d3dshot
 
-
-cx_freeze - for build exe
+ 
+*cx_freeze - for build exe
