@@ -54,6 +54,7 @@ z_named files are raw codes which not included in main
 ## CONFIGURATION
 
 This mod has a Settings window in the application. 
-You can modify intensity of haptics and test the effects by click the button.
+Player can modify intensity of haptics and test the effects by click the button.
 Modified intensities are applyed when clicked "apply" button
 If the setting window is closed, the program exits
+Player can check which haptic events are playing.
