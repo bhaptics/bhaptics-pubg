@@ -1,6 +1,6 @@
 # bhaptics-pubg
 
-### Dependencies
+## Dependencies
 * opencv-python
 * numpy
 * pynput
