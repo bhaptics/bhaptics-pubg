@@ -58,3 +58,5 @@ Player can modify intensity of haptics and test the effects by click the button.
 Modified intensities are applyed when clicked "apply" button
 If the setting window is closed, the program exits
 Player can check which haptic events are playing.
+
+![Player GUI](https://user-images.githubusercontent.com/76416010/108648563-ea848280-74fe-11eb-957b-59ccf682415b.png)
