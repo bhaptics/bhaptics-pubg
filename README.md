@@ -61,6 +61,7 @@ Modified intensities are applyed when clicked "apply" button
 If the setting window is closed, the program exits
 Player can check which haptic events are playing.
 By chaning tacts files on TactFiles folder. Player can change types of haptics
+
 ![Player GUI](https://user-images.githubusercontent.com/76416010/108648563-ea848280-74fe-11eb-957b-59ccf682415b.png)
 
 
