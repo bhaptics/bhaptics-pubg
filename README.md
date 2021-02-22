@@ -43,3 +43,10 @@ z_named files are raw codes which not included in main
 * Explosion events using sound detection(Failed)
 * Impact detection by screen wobble(Failed)
 * Detecting zone by map color image(Failed)
+
+## CONFIGURATION
+
+This mod has a Settings window in the application. 
+You can modify intensity of haptics and test the effects by click the button.
+Modified intensities are applyed when clicked "apply" button
+If the setting window is closed, the program exits
