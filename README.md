@@ -11,6 +11,8 @@ item changing, healing, heartbeat and more. By screen captureing and key events,
 * **English** game language setting
 
 ## Requirements
+
+Developed on Python 3.7.9 64-bit
 * opencv-python
 * numpy
 * pynput
