@@ -96,8 +96,8 @@ Check [6], when [6] detected 0 HP and killer's name detected.
 * Airplane : [1] on, [3] on
 ## findfalling.py
 ### findfalling()
-Get speed when [1] on, [2] on, [4] on || [1] on, [2] off, [4] off
-Cut [4] into pieces (ex : 217 -> 2, 1, 7), check number images, returns bullet num
+Get speed when [1] on, [2] on, [4] on, or [1] on, [2] off, [4] off  
+Cut [4] into pieces (ex : 217 -> 2, 1, 7), check number images, returns speed
 ## falltype()
 * Freefall : Speed over 126
 * Parachute actvie : First time speed under 126
